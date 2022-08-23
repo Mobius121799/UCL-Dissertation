@@ -58,9 +58,7 @@ if y_list != []:
 
     # header = ['name_of_gas','temperature scope', 'a7', 'a6', 'a5', 'a4', 'a3', 'a2', 'a1']
     # with open('nasa_polynomials.csv', 'w', encoding='utf-8', newline='') as nasa_poly_lower:
-    #     # 写
     #     writer = csv.writer(nasa_poly_lower)
-    #     # 设置第一行标题头
     #     writer.writerow(header)
 
     # with open('nasa_polynomials.csv', 'a+', encoding='utf-8', newline='') as nasa_poly_lower:
